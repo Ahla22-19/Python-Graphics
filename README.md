@@ -29,7 +29,7 @@ A snow person comes to life with moving arms, falling snowflakes, and blinking e
 
 ## 🛠️ Requirements
 
-- Python 3.x
+- Python 3.10
 - `graphics.py` library (Zelle's graphics package)
 
 ---
@@ -56,10 +56,55 @@ python "THE SNOW PERSON.py"
 ├── 🎨 graphics.py # Graphics library (required)
 └── 📄 README.md # Project documentation
 ```
-📁 Python Graphics/
-├── 🕊️ THE PIGEON.py # Pigeon flapping in place
-├── 🏀 THE BASKET BALL PLAYER.py # Basketball scoring animation
-├── 🐝 THE BEE.py # Bee feeding on flowers
-├── ⛄ THE SNOW PERSON.py # Snow person with snowfall
-├── 🎨 graphics.py # Graphics library (required)
-└── 📄 README.md # Project documentation
+
+---
+
+## 🧠 What I Learned
+
+- Drawing and animating shapes with Python graphics
+- Creating frame-by-frame movement
+- Looping animations and resetting positions
+- Handling real-time screen updates
+- Structuring and documenting my first project
+
+---
+
+## 👤 Developer
+
+**Ahla22-19** – First programming project — built with curiosity and creativity.
+
+🔗 **GitHub:** [@Ahla22-19](https://github.com/Ahla22-19)
+
+---
+
+## 📅 Year
+
+**2022**
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, please consider:
+- ⭐ **Starring the repository**
+- 🐛 **Forking** to add your own animations
+
+---
+
+## 📬 Contact
+
+**Ahlam Zeynu** – Creator
+- 📧 Email: [zeynuahlam@gmail.com](mailto:zeynuahlam@gmail.com)
+- 💻 GitHub: [@Ahla22-19](https://github.com/Ahla22-19)
+
+**Project Link:** [https://github.com/Ahla22-19/python-graphics-animation](https://github.com/Ahla22-19/python-graphics-animation)
+
+---
+
+## 📄 License
+
+This project is open source and available for learning purposes.
+
+---
+
+© 2022 – First Project — Learning Python Through Animation
